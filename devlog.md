@@ -28,3 +28,6 @@ I currently am working on the first version still as i had to do stuff inbetween
 a little embarrassing but when i was working on the prolog homework i was busy trying to figure out prolog so i already had a file called example.pl. that was what is causing my issue
 
 now that its tested and works without errors supposedly i am going to go to input this and go to sleep after testing a bit more.
+
+2:08am
+gonna finish up, will add commenting and do more testing tomorrow to get ready for turn in.
