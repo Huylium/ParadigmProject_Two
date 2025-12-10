@@ -21,3 +21,10 @@ I didn't work on the project as much since i focused mostly on writing up notes 
 
 12/9/2025 6:17pm
 I am subject to the procrastination of project making again. Its a good thing that delay happened, so i could work on the homework 6 assignment with a little less stress. I hope to get down most of the base code in here while I work. I am really hoping the class discord server was right about this project being relatively faster than the last one.
+
+1:37am (now 12/10/2025)
+I currently am working on the first version still as i had to do stuff inbetween the sessions like driving back home and meeting with a friend. I think i have a solid version down but what is is annoying me is that im erroring when i am trying to use the provided test and example file. I searched for an answer online and it seems like i have to modify the test and example file?? its weird and i do not think that is apart of the assignment. 
+
+a little embarrassing but when i was working on the prolog homework i was busy trying to figure out prolog so i already had a file called example.pl. that was what is causing my issue
+
+now that its tested and works without errors supposedly i am going to go to input this and go to sleep after testing a bit more.
