@@ -35,3 +35,7 @@ gonna finish up, will add commenting and do more testing tomorrow to get ready f
 
 3:56 PM 12/10/2025
 The last time i was working on this i was able to complete the first test and i was satisfied. I'll finish testing and then add commenting and i'll be done. Have to figure out how to turn in the git without problems again tho.
+
+
+4:40PM 12/10/2025
+Comments finished, just gotta turn it in now.
